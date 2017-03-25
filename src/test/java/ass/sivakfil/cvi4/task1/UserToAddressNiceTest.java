@@ -5,9 +5,9 @@ import java.util.Optional;
 import org.junit.Assert;
 import org.testng.annotations.Test;
 
-import ass.sivakfil.cvi5.task1.Address;
-import ass.sivakfil.cvi5.task1.User;
-import ass.sivakfil.cvi5.task1.UserToAddressNice;
+import ass.kasimyur.cvi5.task1.Address;
+import ass.kasimyur.cvi5.task1.User;
+import ass.kasimyur.cvi5.task1.UserToAddressNice;
 
 public class UserToAddressNiceTest {
 

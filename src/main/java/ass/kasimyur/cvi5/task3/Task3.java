@@ -1,4 +1,4 @@
-package ass.sivakfil.cvi5.task3;
+package ass.kasimyur.cvi5.task3;
 
 import java.util.List;
 import java.util.stream.Collectors;

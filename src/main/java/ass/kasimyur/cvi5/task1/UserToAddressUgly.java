@@ -1,4 +1,4 @@
-package ass.sivakfil.cvi5.task1;
+package ass.kasimyur.cvi5.task1;
 
 public class UserToAddressUgly {
 	

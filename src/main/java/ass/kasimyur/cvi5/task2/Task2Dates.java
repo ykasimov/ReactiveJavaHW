@@ -1,4 +1,4 @@
-package ass.sivakfil.cvi5.task2;
+package ass.kasimyur.cvi5.task2;
 
 import java.io.IOException;
 import java.nio.file.Files;

@@ -1,4 +1,4 @@
-package ass.sivakfil.cvi5.demonstrations;
+package ass.kasimyur.cvi5.demonstrations;
 
 import java.io.IOException;
 import java.util.stream.IntStream;
