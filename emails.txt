@@ -1,0 +1,4 @@
+FirstNameLastName@domain.com
+FirstName.LastName@domain.com
+FirstName_LastName@domain.com
+Dude@microsoft
