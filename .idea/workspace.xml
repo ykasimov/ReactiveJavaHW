@@ -2,46 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b60620b5-418a-4ee4-869e-e3c17a50d5b7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/Demo1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/Demo2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/Demo3Regex.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/Demo4TryWithResource.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/DemoFunctionalDI.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/DemoHO.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/DependencyInjectionContainer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/Resource1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/Resource2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/Resource3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/demonstrations/UserDatabase.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/hw5/Record.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/task1/Address.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/task1/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/task1/UserRepo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/task1/UserToAddressNice.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/task1/UserToAddressUgly.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/task2/Task2Dates.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/task2/Task2GenerateDates.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/ass/sivakfil/cvi5/task3/Task3.class" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/demonstrations/Demo1.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/demonstrations/Demo1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/demonstrations/Demo2.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/demonstrations/Demo2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/demonstrations/Demo3Regex.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/demonstrations/Demo3Regex.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/demonstrations/Demo4TryWithResource.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/demonstrations/Demo4TryWithResource.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/demonstrations/DemoFunctionalDI.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/demonstrations/DemoFunctionalDI.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/demonstrations/DemoHO.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/demonstrations/DemoHO.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/hw5/Record.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/hw5/Record.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/task1/Address.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/task1/Address.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/task1/User.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/task1/User.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/task1/UserRepo.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/task1/UserRepo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/task1/UserToAddressNice.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/task1/UserToAddressNice.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/task1/UserToAddressUgly.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/task1/UserToAddressUgly.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/task2/Task2Dates.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/task2/Task2Dates.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/task2/Task2GenerateDates.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/task2/Task2GenerateDates.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/ass/sivakfil/cvi5/task3/Task3.java" afterPath="$PROJECT_DIR$/src/main/java/ass/kasimyur/cvi5/task3/Task3.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/ass/sivakfil/cvi4/task1/UserToAddressNiceTest.class" afterPath="$PROJECT_DIR$/target/test-classes/ass/sivakfil/cvi4/task1/UserToAddressNiceTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/ass/sivakfil/cvi4/task1/UserToAddressNiceTest.java" afterPath="$PROJECT_DIR$/src/test/java/ass/sivakfil/cvi4/task1/UserToAddressNiceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/test/java/ass/sivakfil/cvi4/task1/UserToAddressNiceTest.java" afterPath="$PROJECT_DIR$/src/test/java/ass/kasimyur/cvi4/task1/UserToAddressNiceTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cvi5.iws" />
@@ -200,6 +161,32 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cvi5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5.lab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -242,6 +229,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cvi5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cvi5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5.lab" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cvi5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -706,16 +723,16 @@
       <option name="number" value="Default" />
       <updated>1490097443059</updated>
       <workItem from="1490097446231" duration="2436000" />
-      <workItem from="1490459086307" duration="591000" />
+      <workItem from="1490459086307" duration="883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3027000" />
+    <option name="totallyTimeSpent" value="3319000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -735,7 +752,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2498618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2498618" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
